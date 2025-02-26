@@ -1,0 +1,4 @@
+1691409377,ali, ihsan deli,  1212 , cse
+1691409394,ahmet,güngör,5678,ser
+1691437345,kamil eren, güngör,  3169 , makina mühendisliği
+1703275471,yavuz selim,cengiz,12456,mekatronik

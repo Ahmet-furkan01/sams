@@ -1,0 +1,6 @@
+math
+phsich
+chemistry
+lineer
+english
+history
